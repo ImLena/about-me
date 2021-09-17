@@ -1,0 +1,29 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 500px;
+    width: 600px;
+    border-radius: 20px;
+    background-color: #FFF;
+    box-shadow: 4px 1px 26px #caccd1;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 15%;
+    padding: 40px;
+    white-space: pre-wrap;
+    font-size: 18px;
+    color: #334858;
+}
+
+.cardHeader {
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.cardSkillsHeader {
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 24px;
+}
